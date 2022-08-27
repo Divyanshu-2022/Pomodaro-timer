@@ -54,3 +54,4 @@ Accessible, CSS agnostic, slider component for React.
 
 Installation
 npm install react-slider
+to install it 
